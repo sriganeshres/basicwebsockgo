@@ -1,3 +1,3 @@
-module github.com/sriganeshres/websock
+module github.com/sriganeshres/basicwebsockgo
 
 go 1.21.1
